@@ -2,19 +2,13 @@
  
 ## Tabelas de atividades.
 
-Num|Curso | Horários | Marca
----|---|---|---
-01|JavaScript | 7:30 |
-02|MySQL | 10:00
-03|Inglês | 10:30
-04|Lunch | 12:00
-05|HTML5-CSS3 | 13:00
+Num|Curso |Horários | Marca
+:---:|:---:|:---:|:---:
+1|HTML5-CSS3 |07:00 | OK
+2|JavaScript |09:00 | Ok
+3|MySQL |11:00 | OK
+4|Lunch |13:00 | OK
 
-Terminou a escala semanal.
-
-Sua mesa foi cancelada ~~Mesa         
-
-
-
+Link de acess: <https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open> 
 
 
