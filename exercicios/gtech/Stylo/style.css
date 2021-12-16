@@ -4,9 +4,11 @@
 
 :root {
     --cor0: black;
-    --cor1: rgb(48, 4, 209);
-    --cor2: rgba(0, 0, 255, 0.467);
-    --cor3: rgb(2, 0, 128);
+    --cor1: rgba(4, 110, 209, 0.364);
+    --cor2: rgb(7, 7, 255);
+    --cor3: rgb(12, 12, 240);
+
+    --font-padrao: Arial, Helvetica, Sans-serif;
 }
 
 * {
@@ -14,11 +16,16 @@
     padding: 0px;
 }
 
-body {
-    color: linear-gradient(to bottom, var(--cor2), var(--cor3));    
+header {
+    background-color: black;    
 }
 
-h1 {
-    color: aliceblue;
-    
+header img {
+    box-shadow: 0px 7px 7px center;
+}
+
+nav {
+    background-color: var(--cor1);
+    padding: 10px;
+    box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.289);    
 }
