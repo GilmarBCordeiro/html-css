@@ -1,14 +1,14 @@
 @charset "UTF-8";
 
-body {
-    background-color: rgba(0, 0, 255, 0.392);    
+:root {
+    --cor0: black;
+    --cor1:white;
+    --cor2:blue;
+    --cor3:rgb(2, 0, 128);
 }
 
-header {
-    
-    background-color: black;
-
-       
+body {
+    background-color: linear-gradient(to bottom, var(--cor2), var(--cor3));    
 }
 
 h1 {
