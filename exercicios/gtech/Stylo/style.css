@@ -1,7 +1,14 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgba(0, 0, 255, 0.392);
+    background-color: rgba(0, 0, 255, 0.392);    
+}
+
+header {
+    
+    background-color: black;
+
+       
 }
 
 h1 {
