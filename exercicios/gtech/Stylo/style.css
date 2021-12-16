@@ -1,14 +1,21 @@
 @charset "UTF-8";
 
+
+
 :root {
     --cor0: black;
-    --cor1:white;
-    --cor2:blue;
-    --cor3:rgb(2, 0, 128);
+    --cor1: rgb(48, 4, 209);
+    --cor2: rgba(0, 0, 255, 0.467);
+    --cor3: rgb(2, 0, 128);
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
 }
 
 body {
-    background-color: linear-gradient(to bottom, var(--cor2), var(--cor3));    
+    color: linear-gradient(to bottom, var(--cor2), var(--cor3));    
 }
 
 h1 {
